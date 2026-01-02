@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "message": "점검중",
   "features": {
     "streamEnabled": true,
