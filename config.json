@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "message": "정상 동작",
+  "features": {
+    "streamEnabled": true,
+    "rebatchEnabled": true,
+    "rebinEnabled": true,
+    "batchEnabled": true,
+    "orderBatchEnabled": true,
+    "mosTableEnabled": true
+  }
+}  
