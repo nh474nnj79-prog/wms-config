@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "message": "점검중",
+  "enabled": true,
+  "message": "작동중",
   "features": {
     "streamEnabled": true,
     "rebatchEnabled": true,
