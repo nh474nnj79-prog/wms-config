@@ -1,8 +1,9 @@
 {
   "enabled": true,
-  "message": "비밀번호 인증이 필요합니다. 확장 옵션에서 인증하세요.",
+  "message": "비밀번호 인증이 필요합니다. 팝업에서 인증하세요.",
   "auth": {
     "required": true,
+    "epoch": 1,
     "salt": "wms-2026-02-08-9f3a1c2d",
     "passcodeHash": "854beeb621cb3b87a43192a739e2568febc6770332679c4bc61536c1bc354505"
   },
