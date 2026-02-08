@@ -3,9 +3,9 @@
   "message": "비밀번호 인증이 필요합니다. 팝업에서 인증하세요.",
   "auth": {
     "required": true,
-    "epoch": 2,
+    "epoch": 3,
     "salt": "wms-2026-02-08-9f3a1c2d",
-    "passcodeHash": "e5c390de24067a07c468f55a8463d87ffa73493e6f9f29c878421ca8254bd83f"
+    "passcodeHash": "340244a1f6e950a61373088df7878884aea690ba46033c67f9c3c453a9500b60"
   },
   "features": {
     "streamEnabled": true,
