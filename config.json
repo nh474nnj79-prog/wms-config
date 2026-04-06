@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "message": "비밀번호 인증이 필요합니다. 팝업에서 인증하세요.",
+  "message": "서비스가 일시 중지되었습니다.",
   "auth": {
     "required": true,
     "epoch": 3,
