@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "message": "비밀번호 인증이 필요합니다. 팝업에서 인증하세요.",
   "auth": {
     "required": true,
