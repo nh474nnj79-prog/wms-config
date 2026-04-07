@@ -1,5 +1,5 @@
 {
-  "_comment" : "킬스위치 : true 혹은 false"
+  "_comment" : "킬스위치 : true 혹은 false",
   "enabled": false,
   "message": "서비스가 일시 중지되었습니다.",
   "auth": {
