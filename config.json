@@ -8,7 +8,7 @@
     "salt": "wms-2026-02-08-9f3a1c2d",
     "passcodeHash": "340244a1f6e950a61373088df7878884aea690ba46033c67f9c3c453a9500b60"
   },
-  "allowedUsers": ["wejeong","ockang","Ryuk JH (박진환)","김한현","airy hj (박현정)","이서현"],
+  "allowedUsers": ["wejeong","ockang","Ryuk JH (박진환)","김한현","airy hj (박현정)","이서현","Jane GI (황가인)"],
   "features": {
     "streamEnabled": true,
     "rebatchEnabled": true,
