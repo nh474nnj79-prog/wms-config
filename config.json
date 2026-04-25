@@ -9,30 +9,33 @@
     "passcodeHash": "340244a1f6e950a61373088df7878884aea690ba46033c67f9c3c453a9500b60"
   },
   "allowedUsers": [
-    "wejeong",
-    "ockang",
-    "Ryuk JH (박진환)",
+    "wejeong", 
+    "ockang", 
+    "Ryuk JH (박진환)", 
     "김한현",
-    "airy hj (박현정)",
-    "이서현",
+    "airy hj (박현정)", 
+    "이서현", 
     "Jane GI (황가인)",
     "Loopy (Helper Leader)",
-    "yolee520",
+    "yolee520", 
     "Ayaan YS (이용수)"
   ],
   "mosAllowedUsers": [
-    "wejeong",
-    "ockang",
-    "Ryuk JH (박진환)",
+    "wejeong", 
+    "ockang", 
+    "Ryuk JH (박진환)", 
     "김한현",
-    "airy hj (박현정)",
-    "이서현",
+    "airy hj (박현정)", 
+    "이서현", 
     "Jane GI (황가인)",
-    "jojeon52",
-    "36585344",
-    "eisong",
-    "MAPARK16",
+    "jojeon52", 
+    "36585344", 
+    "eisong", 
+    "MAPARK16", 
     "yolee371"
+  ],
+  "icqaAllowedUsers": [
+    "wejeong"
   ],
   "features": {
     "streamEnabled": true,
@@ -40,6 +43,7 @@
     "rebinEnabled": true,
     "batchEnabled": true,
     "orderBatchEnabled": true,
-    "mosTableEnabled": true
+    "mosTableEnabled": true,
+    "uploadEnabled": true
   }
 }
