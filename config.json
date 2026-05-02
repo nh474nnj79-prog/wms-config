@@ -9,15 +9,15 @@
     "passcodeHash": "340244a1f6e950a61373088df7878884aea690ba46033c67f9c3c453a9500b60"
   },
   "allowedUsers": [
-    "wejeong", 
-    "ockang", 
-    "Ryuk JH (박진환)", 
+    "wejeong",
+    "ockang",
+    "Ryuk JH (박진환)",
     "김한현",
-    "airy hj (박현정)", 
-    "이서현", 
+    "airy hj (박현정)",
+    "이서현",
     "Jane GI (황가인)",
     "Loopy (Helper Leader)",
-    "yolee520", 
+    "yolee520",
     "Ayaan YS (이용수)",
     "Tiffany SJ (양수정)",
     "김동희",
@@ -26,17 +26,17 @@
     "J82000004"
   ],
   "mosAllowedUsers": [
-    "wejeong", 
-    "ockang", 
-    "Ryuk JH (박진환)", 
+    "wejeong",
+    "ockang",
+    "Ryuk JH (박진환)",
     "김한현",
-    "airy hj (박현정)", 
-    "이서현", 
+    "airy hj (박현정)",
+    "이서현",
     "Jane GI (황가인)",
-    "jojeon52", 
-    "36585344", 
-    "eisong", 
-    "MAPARK16", 
+    "jojeon52",
+    "36585344",
+    "eisong",
+    "MAPARK16",
     "yolee371"
   ],
   "icqaAllowedUsers": [
@@ -45,6 +45,20 @@
     "이욱진",
     "Irene JS (이정숙)"
   ],
+  "logging": {
+    "enabled": true,
+    "endpoint": "https://script.google.com/a/macros/cpg.coupangls.com/s/AKfycbzPUhP2GhYB3xx2uCcdKETG2Xmnh_vZEoKd1SckJKh9e1yPQ_3DqHHMJjC_2amdZGrZCg/exec",
+    "apiKey": "wms-log-2026",
+    "source": "vscode-extension",
+    "events": [
+      "auth"
+    ],
+    "fields": [
+      "timestamp",
+      "userId",
+      "success"
+    ]
+  },
   "features": {
     "streamEnabled": true,
     "rebatchEnabled": true,
