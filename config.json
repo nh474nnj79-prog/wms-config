@@ -1,6 +1,6 @@
 {
   "_comment": "킬스위치 : true 혹은 false",
-  "enabled": false,
+  "enabled": true,
   "message": "조직 정책으로 인해 사용 불가능 합니다.",
   "auth": {
     "required": true,
